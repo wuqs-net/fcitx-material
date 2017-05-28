@@ -3,6 +3,9 @@ Material Design skin for fcitx
 Based on [fcitx-skin-material](https://github.com/ootaharuki99/fcitx-skin-material) by [ootaharuki99](https://github.com/ootaharuki99)
 
 ## Install
+1. __[Download]()__ and extract the archive
+1. Copy `material-design` folder to `~/.config/fcitx/skin` (If the directory does not exist, create it.)
+1. Select `material-design` in `Fcitx menu > Skin`
 
 ## Icon usage
 Copyright 2017 Google
